@@ -1,0 +1,3 @@
+[submodule "KYC-SUD-APP-Backend"]
+	path = KYC-SUD-APP-Backend
+	url = https://github.com/Fatima-El2003/KYC-SUD-APP-Backend.git
